@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Playlist Top",
+      "link": "https://www.youtube.com/watch?v=55OJ17cHeJA&list=RDFNdC_3LR2AI&index=9",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Amon Amarth - The Way of Vikings",
+          "url": "https://www.youtube.com/watch?v=55OJ17cHeJA&list=RDFNdC_3LR2AI&index=9"
+        },
+        {
+          "titulo": "Gojira - Stranded",
+          "url": "https://www.youtube.com/watch?v=FNdC_3LR2AI&list=RDMMA-Tod1_tZdU&index=12"
+        },
+        {
+          "titulo": "Motörhead - God Was Never on Your Side",
+          "url": "https://www.youtube.com/watch?v=IJ5DWUu-MlE&list=RDMMA-Tod1_tZdU&index=11"
+        },
+        {
+          "titulo": "Matanza - Clube dos Canalhas",
+          "url": "https://www.youtube.com/watch?v=YrAoTDttMNc&list=RDMMA-Tod1_tZdU&index=20"
+        },
+        {
+          "titulo": "Foo Fighters - The Sky Is A Neighborhood",
+          "url": "https://www.youtube.com/watch?v=TRqiFPpw2fY"
+        },
+        {
+          "titulo": "The Offspring - You're Gonna Go Far, Kid",
+          "url": "https://www.youtube.com/watch?v=ql9-82oV2JE"
+        },
+        {
+          "titulo": "Megadeth - Symphony of Destruction",
+          "url": "https://www.youtube.com/watch?v=K5jvUXij7nU"
+        },
+        {
+          "titulo": "Ozzy Osbourne - Let Me Hear You Scream",
+          "url": "https://www.youtube.com/watch?v=GRqpOhkdhTM"
+        }        
+      ]
+    },
+    {
+      "titulo": "Five Finger Death Punch and justice",
+      "cor": "#2b18c7",
+      "link_extra": {
+        "text": "Sobre a banda Five Finger Death Punch and justice",
+        "url": "http://www.wikimetal.com.br/five-finger-death-punch-melhor-banda-da-atualidade/"
+      },
+      "videos": [
+        {
+          "titulo": "Top Of The World",
+          "url": "https://www.youtube.com/watch?v=4sxWZ4geXKM&list=PL_04_ebc62tGz0u0FhGhzeYJWQswhnJM_&index=3"
+        },
+        {
+          "titulo": "It Doesn't Matter",
+          "url": "https://www.youtube.com/watch?v=YVoj-TVPWow&list=PL_04_ebc62tGz0u0FhGhzeYJWQswhnJM_&index=4"
+        },
+        {
+          "titulo": "Will The Sun Ever Rise",
+          "url": "https://www.youtube.com/watch?v=JUWHQGXELGo&list=PL_04_ebc62tGz0u0FhGhzeYJWQswhnJM_&index=8"
+        },
+        {
+          "titulo": "Fake",
+          "url": "https://www.youtube.com/watch?v=XbSsr3xVg5I&list=PL_04_ebc62tGz0u0FhGhzeYJWQswhnJM_&index=13"
+        },
+        {
+          "titulo": "Sham Pain",
+          "url": "https://www.youtube.com/watch?v=jkiUKB6RwLw&list=PL_04_ebc62tGz0u0FhGhzeYJWQswhnJM_&index=14"
+        }
+      ]
+    },
+    {
+      "titulo": "Rammstein",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Sobre a banda Rammstein",
+        "url": "https://www.dw.com/pt-br/rammstein-filhos-do-punk-da-alemanha-oriental/a-49742503"
+      },
+      "videos": [
+        {
+          "titulo": "Amerika",
+          "url": "https://www.youtube.com/watch?v=Rr8ljRgcJNM"
+        },
+        {
+          "titulo": "Puppe",
+          "url": "https://www.youtube.com/watch?v=HjzWcljgdnQ"
+        },
+        {
+          "titulo": "Ich Tu Dir Weh",
+          "url": "https://www.youtube.com/watch?v=IxuEtL7gxoM"
+        },
+        {
+          "titulo": "Amour",
+          "url": "https://www.youtube.com/watch?v=RVQ1xjGb5M0"
+        }
+      ]
+    },
+    {
+      "titulo": "Black Label Society",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Sobre a banda Black Label Society",
+        "url": "https://whiplash.net/materias/biografias/038785-blacklabelsociety.html"
+      },
+      "videos": [
+        {
+          "titulo": "Sold my soul",
+          "url": "https://www.youtube.com/watch?v=pYwdh4bpsAY"
+        },
+        {
+          "titulo": "A Love Unreal",
+          "url": "https://www.youtube.com/watch?v=R98MHlsbUeU"
+        },
+        {
+          "titulo": "Doomsday Jesus",
+          "url": "https://www.youtube.com/watch?v=g8KIdzgV83Y"
+        },
+        {
+          "titulo": "Sleeping Dogs",
+          "url": "https://www.youtube.com/watch?v=3Pv7jAKIPa0"
+        }
+      ]
+    },
+    {
+      "titulo": "Thrash Metal",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Sobre o Thrash Metal",
+        "url": "https://whiplash.net/materias/biografias/067490.html"
+      },
+      "videos": [
+        {
+          "titulo": "Metallica - Master Of Puppets",
+          "url": "https://www.youtube.com/watch?v=xnKhsTXoKCI&feature=emb_title"
+        },
+        {
+          "titulo": "Slayer - Angel of Death",
+          "url": "https://www.youtube.com/watch?v=TnRZhLRv6eM"
+        },
+        {
+          "titulo": "Megadeath - Holy Wars… The Punishment Due",
+          "url": "https://www.youtube.com/watch?v=tP_-YIhgF3w&feature=emb_title"
+        },
+        {
+          "titulo": "Exodus - Bonded By Blood",
+          "url": "https://www.youtube.com/watch?v=tTdGnKB8j7U&feature=emb_title"
+        },
+        {
+          "titulo": "Pantera - Mouth For War",
+          "url": "https://www.youtube.com/watch?v=a3JSbOt7CLo&feature=emb_title"
+        }
+      ]
+    },
+    {
+      "titulo": "Grungie",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Sobre o Grungie",
+        "url": "https://super.abril.com.br/mundo-estranho/o-que-e-grunge/"
+      },
+      "videos": [
+        {
+          "titulo": "Nirvana - Smells Like Teen Spirit",
+          "url": "https://www.youtube.com/watch?v=hTWKbfoikeg"
+        },
+        {
+          "titulo": "Pearl Jam - Alive",
+          "url": "https://www.youtube.com/watch?v=wGiTPgvKktM"
+        },
+        {
+          "titulo": "Alice In Chains - Would",
+          "url": "https://www.youtube.com/watch?v=JB_fNVOPzyM"
+        },
+        {
+          "titulo": "Soundgarden - Superunknown",
+          "url": "https://www.youtube.com/watch?v=AwdjreJKggg"
+        },
+        {
+          "titulo": "The Smashing Pumpkins - Today",
+          "url": "https://www.youtube.com/watch?v=xmUZ6nCFNoU"
+        }
+      ]
+    }
+  ]
+}
