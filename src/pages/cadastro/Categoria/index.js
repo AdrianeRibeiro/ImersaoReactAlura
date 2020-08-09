@@ -76,11 +76,13 @@ export default function CadastroCategoria() {
             value={valores.cor}
             onChange={handleOnChange}
           />  
-
+          
           <Button>Cadastrar</Button>
         </form>
 
-        <Categorias categorias={categorias}/>
+        { categorias.length > 0 && <Categorias categorias={categorias}/> }
+       
+        <br/>
 
         <Link to="/">
           Ir para home
